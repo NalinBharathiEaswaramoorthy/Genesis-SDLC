@@ -61,6 +61,7 @@ coverage:
 	gcov -a $(COV_SRC)
 	
 valgrind:
+	chmod a+x ./test.out
 	valgrind --leak-check=full ./test.out
 
 clean:
