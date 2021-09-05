@@ -77,7 +77,7 @@ Folder             | Description
 | F_31       	| Writing Makefile for code compilation, <br>code coverage, valgrind, cppcheck 	|
 
 
-
+## Dynamic Badges
 Build | Code Quality(Static)| Code Quality(Dynamic)  | Unity | [Git Inspector]|Coverage|
 ------|---------------------|------------------------|-------|----------------|--------|
 [![C/C++ CI - Build Status](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/cbuild.yml/badge.svg)](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/cbuild.yml)|[![cppcheck-action](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/valgrind.yml/badge.svg)](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/valgrind.yml)|[![Unit testing](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/unit-test.yml/badge.svg)](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/unit-test.yml)|[![Contribution Check - Git Inspector](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/gitinspector.yml)|[![CI-Coverage](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/gcov.yml/badge.svg)](https://github.com/NalinBharathiEaswaramoorthy/Genesis-SDLC/actions/workflows/gcov.yml)|
